@@ -19,10 +19,8 @@ Visual Studio 2017**
 **Set up the “Bjarne Stroustrup + FLTK” in Visual Studio 2017**
 
 + **Drawing Box, Regular_polygon and Star**
-<img width="700" alt="box" src="https://user-images.githubusercontent.com/37170306/104928164-abd24880-59e5-11eb-8fa7-2a5503b4b652.png">
-<img width="400" alt="polygon" src="https://user-images.githubusercontent.com/37170306/104928173-aecd3900-59e5-11eb-9ae8-3932ac1e0f98.png">
-<img width="400" alt="star1" src="https://user-images.githubusercontent.com/37170306/104928175-af65cf80-59e5-11eb-8720-d932b61df8fa.png">
-<img width="400" alt="star2" src="https://user-images.githubusercontent.com/37170306/104928180-affe6600-59e5-11eb-86a3-920937562823.png">
+<img width="350" alt="box" src="https://user-images.githubusercontent.com/37170306/104928164-abd24880-59e5-11eb-8fa7-2a5503b4b652.png"><img width="200" alt="polygon" src="https://user-images.githubusercontent.com/37170306/104928173-aecd3900-59e5-11eb-9ae8-3932ac1e0f98.png">
+<img width="200" alt="star1" src="https://user-images.githubusercontent.com/37170306/104928175-af65cf80-59e5-11eb-8720-d932b61df8fa.png"><img width="200" alt="star2" src="https://user-images.githubusercontent.com/37170306/104928180-affe6600-59e5-11eb-86a3-920937562823.png">
 
 
     Derive from the Shape class  
