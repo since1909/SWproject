@@ -20,20 +20,20 @@ Visual Studio 2017**
 
 + **Drawing Box, Regular_polygon and Star**
 
-    Derive from the Shape class
-    Add member variables (private)
-    Add getter functions (public) 
-    Define a constructor
-    Override draw_lines
+    Derive from the Shape class  
+    Add member variables (private)  
+    Add getter functions (public)   
+    Define a constructor  
+    Override draw_lines  
     
 ### 경찰과도둑
 **Set up the “Bjarne Stroustrup + FLTK” in Visual Studio 2017**
 
 + **Derive from the Character class**
 
-    Define a constructor to create the Pursuer’s shape
-    Define a constructor to create the Evader's shape
-    Override nextDirection() to pursue its enemy
-    Override nextDirection() to pursue its enemy
+    Define a constructor to create the Pursuer’s shape  
+    Define a constructor to create the Evader's shape  
+    Override nextDirection() to pursue its enemy  
+    Override nextDirection() to pursue its enemy  
             
 ## 2. 리눅스활용실습
