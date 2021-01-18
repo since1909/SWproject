@@ -19,6 +19,7 @@ Visual Studio 2017**
 **Set up the “Bjarne Stroustrup + FLTK” in Visual Studio 2017**
 
 + **Drawing Box, Regular_polygon and Star**
+
 Derive from the Shape class
 Add member variables (private)
 Add getter functions (public) 
@@ -29,6 +30,7 @@ Override draw_lines
 **Set up the “Bjarne Stroustrup + FLTK” in Visual Studio 2017**
 
 + **Derive from the Character class**
+
 Define a constructor to create the Pursuer’s shape
 Define a constructor to create the Evader's shape
 Override nextDirection() to pursue its enemy
